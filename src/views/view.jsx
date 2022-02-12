@@ -23,8 +23,8 @@ const View = () => {
             <div className="light" id="top">
                 <header className="header center">
                     <h3>
-                        <a href="https://rajshekhar26.github.io/cleanfolio-minimal" className="link"
-                        >RS.</a
+                        <a href="#navbar" className="link"
+                        >LG.</a
                         >
                     </h3>
 
@@ -57,8 +57,8 @@ const View = () => {
 
                 <main>
                     <div className="about center">
-                        <h1>Hi, I am <span className="about__name">Raj Shekhar.</span></h1>
-                        <h2 className="about__role">A Front end Developer.</h2>
+                        <h1>Hi, I am <span className="about__name">Liz Gaubatz.</span></h1>
+                        <h2 className="about__role">A Full Stack Web Developer.</h2>
                         <p className="about__desc">
                             Consectetur neque sed quam molestiae consectetur nesciunt sit alias
                             Vitae libero perferendis reprehenderit optio veritatis Accusantium at
@@ -73,7 +73,7 @@ const View = () => {
                             </a>
 
                             <a
-                                href="https://github.com/rajshekhar26"
+                                href="https://github.com/LizGaubatz"
                                 aria-label="github"
                                 className="link link--icon"
                             >
@@ -81,7 +81,7 @@ const View = () => {
                             </a>
 
                             <a
-                                href="https://linkedin.com/in/rajshekhar26"
+                                href="https://www.linkedin.com/in/liz-gaubatz-502346176/"
                                 aria-label="linkedin"
                                 className="link link--icon"
                             >
@@ -188,22 +188,24 @@ const View = () => {
                         <ul className="skills__list">
                             <li className="skills__list-item btn btn--plain">HTML</li>
                             <li className="skills__list-item btn btn--plain">CSS</li>
-                            <li className="skills__list-item btn btn--plain">SCSS</li>
                             <li className="skills__list-item btn btn--plain">JavaScript</li>
-                            <li className="skills__list-item btn btn--plain">TypeScript</li>
                             <li className="skills__list-item btn btn--plain">React</li>
-                            <li className="skills__list-item btn btn--plain">Redux</li>
                             <li className="skills__list-item btn btn--plain">Git</li>
+                            <li className="skills__list-item btn btn--plain">C#</li>
+                            <li className="skills__list-item btn btn--plain">.Net</li>
+                            <li className="skills__list-item btn btn--plain">Flask</li>
+                            <li className="skills__list-item btn btn--plain">JQuery</li>
+                            <li className="skills__list-item btn btn--plain">MongoDB</li>
+                            <li className="skills__list-item btn btn--plain">Express</li>
+                            <li className="skills__list-item btn btn--plain">Python</li>
+                            <li className="skills__list-item btn btn--plain">MySql</li>
                             <li className="skills__list-item btn btn--plain">Material UI</li>
-                            <li className="skills__list-item btn btn--plain">Jest</li>
-                            <li className="skills__list-item btn btn--plain">Enzyme</li>
-                            <li className="skills__list-item btn btn--plain">CI/CD</li>
                         </ul>
                     </section>
 
                     <section className="section contact center" id="contact">
                         <h2 className="section__title">Contact</h2>
-                        <a href="mailto:rjshekhar.official@gmail.com">
+                        <a href="mailto:gaubatz14@outlook.com">
                             <span className="btn btn--outline">Email me</span>
                         </a>
                     </section>
@@ -211,10 +213,9 @@ const View = () => {
 
                 <footer className="footer">
                     <a
-                        href="https://github.com/rajshekhar26/cleanfolio-minimal"
+                        href="https://github.com/LizGaubatz"
                         className="link footer__link"
                     >
-                        Created By Raj Shekhar
                     </a>
                 </footer>
 
