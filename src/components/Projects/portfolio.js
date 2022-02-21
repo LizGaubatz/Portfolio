@@ -7,8 +7,8 @@ const about = {
     name: 'Liz Gaubatz',
     role: 'Full Stack Software Developer',
     description:
-        'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-    resume: 'https://docs.google.com/document/d/1h5L7CcXgIQk5xNegMQaPUtX1sG_lbNai7hwGWexXRTI/edit?usp=sharing',
+        'Welcome! I am a Jr. Full Stack Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Python, JavaScript, ASP.NET, C#, React, and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.',
+    resume: 'https://resume.io/r/VzcYfsd2d',
     social: {
         linkedin: 'https://www.linkedin.com/in/liz-gaubatz-502346176/',
         github: 'https://github.com/LizGaubatz',
@@ -19,27 +19,35 @@ const projects = [
     {
         name: 'Project 1',
         description:
-            'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-        stack: ['SASS', 'TypeScript', 'React'],
-        sourceCode: 'https://github.com',
-        livePreview: 'https://github.com',
+            'This Portfolio! :)',
+        stack: ['React', 'Node', 'Express', 'NPM'],
+        sourceCode: 'https://github.com/LizGaubatz/Portfolio',
+        // livePreview: 'This Project is still in Progress',
     },
     {
         name: 'Project 2',
         description:
-            'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-        stack: ['SASS', 'TypeScript', 'React'],
+            'Content Management System using React',
+        stack: ['React', 'Node', 'Express', 'MongoDB', 'NPM'],
         sourceCode: 'https://github.com',
-        livePreview: 'https://github.com',
+        // livePreview: 'This Project is still in Progress',
     },
     {
         name: 'Project 3',
         description:
-            'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-        stack: ['SASS', 'TypeScript', 'React'],
-        sourceCode: 'https://github.com',
-        livePreview: 'https://github.com',
+            'Content Management System using Python',
+        stack: ['Python', 'MySQL', 'JQuery', 'Flask', 'Ajax'],
+        sourceCode: 'https://github.com/LizGaubatz/TrailHead',
+        // livePreview: 'This Project is still in Progress',
     },
+    // {
+    //     name: 'Project 3',
+    //     description:
+    //         'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    //     stack: ['SASS', 'TypeScript', 'React'],
+    //     sourceCode: 'https://github.com',
+    //     livePreview: 'https://github.com',
+    // },
 ]
 
 const skills = [
@@ -59,6 +67,8 @@ const skills = [
     '.Net',
     'C#',
     'Git',
+    'Agile Development',
+    'Debugging'
 ]
 
 const contact = {

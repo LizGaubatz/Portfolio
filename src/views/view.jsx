@@ -60,15 +60,11 @@ const View = () => {
                         <h1>Hi, I am <span className="about__name">Liz Gaubatz.</span></h1>
                         <h2 className="about__role">A Full Stack Web Developer.</h2>
                         <p className="about__desc">
-                            Consectetur neque sed quam molestiae consectetur nesciunt sit alias
-                            Vitae libero perferendis reprehenderit optio veritatis Accusantium at
-                            voluptatum cumque temporibus et Explicabo iste porro quis numquam
-                            distinctio Repellendus adipisci nam perferendis amet eaque hic
-                            Voluptates
+                            
                         </p>
 
                         <div className="about__contact center">
-                            <a href="https://example.com">
+                            <a href="Hi! I am a Jr. Full Stack Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems. Equipped with a diverse and promising skill-set. Proficient in an assortment of technologies, including Python, JavaScript, ASP.NET, C#, React, and Microsoft SQL Server. Able to effectively self-manage during independent projects, as well as collaborate in a team setting.tps://example.com">
                                 <span className="btn btn--outline">Resume</span>
                             </a>
 
