@@ -18,7 +18,7 @@ const View = () => {
                     crossOrigin="anonymous"
                 ></script>
                 <link rel="stylesheet" href="styles.css" />
-                <title>Raj Shekhar</title>
+                <title>Liz Gaubatz</title>
             </>
             <div className="light" id="top">
                 <header className="header center">
